@@ -1,0 +1,19 @@
+{
+  "ships": [
+    {
+      "type": "UnloadingShip",
+      "name": "Unloading Ship 1",
+      "capacity": 300
+    },
+    {
+      "type": "ProcessingShip",
+      "name": "Processing Ship 1",
+      "capacity": 200
+    },
+    {
+      "type": "LoadingShip",
+      "name": "Loading Ship 1",
+      "capacity": 400
+    }
+  ]
+}
